@@ -1,0 +1,13 @@
+gradio>=4.0.0
+torch>=2.0.0
+torchaudio>=2.0.0
+pyannote.audio>=3.1.0
+google-generativeai>=0.3.0
+pydub>=0.25.1
+pandas>=2.0.0
+
+# Required for audio format conversion
+# Install ffmpeg separately:
+# - Ubuntu/Debian: sudo apt-get install ffmpeg
+# - macOS: brew install ffmpeg
+# - Windows: Download from https://ffmpeg.org/download.html
